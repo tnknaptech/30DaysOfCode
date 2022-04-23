@@ -1,0 +1,5 @@
+METHODOLOGY:
+First we will define 5 variables s1,s2,s3,s4,s5,sum and percentage in float format,where si,sum and percentage are marks in i th subject,total sum of marks and percentage.
+We will ask user to enter the marks in each subject out of 100 and we will store them in s1,s2,s3,s4 and s5 variables,then the sum of all these marks will be stored in sum variable.Then we will calculate the percentage using formula mentioned below and store it in variable percentage.
+Percentage = sum/5
+At the end, we will display the total marks and percentage obtained.
