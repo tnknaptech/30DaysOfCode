@@ -1,0 +1,1 @@
+First we have to ask the two numbers to be swapped. Let us take them as a,b now we will assign a+b to a and a-b to b(1) and now we have to assign b-a to a(1) where b,a in b-a are assigned a-b, a+b respectively. So finally our swapped numbers are a(1),b(1). Here (1) is used for understanding purposes but we will not use a(1),b(1), in the code instead we write just a,b.
