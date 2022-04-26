@@ -1,0 +1,19 @@
+First of all we have to ask the user which multiplication table he wants to print and name it the same number and also upto which multiplier he wants to multiply and name it as x.
+Now we have used the concept of loops first we have to initialize a variable as n=1 and update this variable value as n=n+1 at the end of every iteration. We have to print each and every multiplication value in each iteration. In the loop we will write the logic as %d*%d which is number*n. Now we will see in detail by taking loops and loop terminates when n=x.
+Let user want to print a multiplication table of number = 5 upto multiplier 10. 
+Loop 1:
+n=1
+number*n=5*1=5
+Loop 2:
+n=2 
+number*n=5*2=10 
+Loop-3:
+n=3 
+number*n=5*3=15 
+Loop-4: 
+n=4 
+number*n=5*4=20 
+Loop-5: 
+n=5 
+number*n=5*5=25 
+and so on.
