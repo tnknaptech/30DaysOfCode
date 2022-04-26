@@ -1,4 +1,4 @@
-//To Print the table of a number using for loop.
+//To Print the table of a number using while loop.
 #include <stdio.h>
 int main()
 {
