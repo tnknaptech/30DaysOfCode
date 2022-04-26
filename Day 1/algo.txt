@@ -2,4 +2,5 @@ Step 1 : Start
 Step 2 : Read s1,s2,s3,s4,s5 
 Step 3 : sum← s1+s2+s3+s4+s5 
 Step 4 : percentage ← sum/5 
-Step 5 : Print sum,percentage Step 6 : Stop
+Step 5 : Print sum,percentage 
+Step 6 : Stop
