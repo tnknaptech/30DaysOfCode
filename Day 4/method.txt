@@ -1,0 +1,5 @@
+First we will declare a,b,c and big variables in int format then we will take input from the user.We have to use boolean algebra to cope up with this problem. In this problem we have to use if-else if statements.
+In the first condition we will check whether a is greater of all three by writing expression a>b && a>c.If the condition is true we will assign the value of a to the big variable.
+Now we will check whether a is greater of all three by writing expression b>a && b>c. If the condition is true we will assign the value of b to the big variable.
+Finally we will check whether a is greater of all three by writing expression c>a && c>b. If the condition is true we will assign the value of c to the big variable.
+At the end we will display big variable.
