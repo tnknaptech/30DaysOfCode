@@ -1,0 +1,7 @@
+Step 1:Start
+Step 2: Read a,b,c
+Step 3:Check if a>b and a>c , big←a 
+Step 4:Check if b>c and b>a , big←b 
+Step 5:Check if c>a and c>b , big←c 
+Step 6:Print big
+Step 7:Stop
