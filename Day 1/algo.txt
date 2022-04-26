@@ -1,4 +1,3 @@
-ALGORITHM:
 Step 1 : Start
 Step 2 : Read s1,s2,s3,s4,s5 
 Step 3 : sum← s1+s2+s3+s4+s5 
