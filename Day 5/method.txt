@@ -1,0 +1,14 @@
+First we need to extract the number from the user.
+In the loops first we need to extract the individual numbers from right to left and change their positions which means in a 3 digit number the number in one’s place will go to hundreds place. We have to update the number number as number/10 and give a condition that loop termites when number/10 = 0.We will extract a single number by doing, rem= number%10 and before loop starts we initialize and rev = 0 and we will now reverse the number in the loop by updating rev as
+rev= rev * 10 + rem. And finally after number=0 we will print the value of rev.
+We will now a detailed structure by taking example and let the number to be reversed is 123. 
+
+Loop 1:
+We have initialized rev=0 rem=number%10=123%10=3 rev=0*10+3=3
+number = 123/10=12
+
+Loop 2 :
+Now rev will be 3
+rem=12%10=2 rev=3*10+2=32 number=12/10=1 Loop -3:-
+Now rev is 32 rem=1%10=1 rev=32*10+1=321 number= 1/10=0
+So our reversed number is 321.
