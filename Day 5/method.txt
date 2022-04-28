@@ -9,6 +9,8 @@ number = 123/10=12
 
 Loop 2 :
 Now rev will be 3
-rem=12%10=2 rev=3*10+2=32 number=12/10=1 Loop -3:-
+rem=12%10=2 rev=3*10+2=32 number=12/10=1 
+
+Loop 3:
 Now rev is 32 rem=1%10=1 rev=32*10+1=321 number= 1/10=0
 So our reversed number is 321.
