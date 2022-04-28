@@ -1,0 +1,8 @@
+Step 1:Start
+Step 2:Read n;
+Step 3:Check condition i.e while n!=0
+Step 4:If condition is true go to 
+step 5:otherwise go to Step 6 
+Step 6:rem = n%10,rev+=rev*10+rem,n/=10
+Step 7:Print rev 
+Step 8:Stop
