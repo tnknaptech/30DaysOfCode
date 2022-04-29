@@ -1,0 +1,6 @@
+Step 1 : Start
+Step 2 : Read radius
+Step 3 : area ← 3.14*radius*radius 
+Step 4 : circumference ← 3.14*2*radius 
+Step 5 : Print area , circumference
+Step 6 : Stop
