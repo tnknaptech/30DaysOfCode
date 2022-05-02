@@ -1,0 +1,5 @@
+Step 1 : Start
+Step 2 : Read temp_in_celcius
+Step 3 : temp_in_fahrenheit ← 1.8*temp_in_celcius+32 
+Step 4 : Print temp_in_fahrenheit
+Step 5 : Stop
