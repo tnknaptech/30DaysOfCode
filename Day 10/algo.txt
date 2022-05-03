@@ -1,0 +1,7 @@
+Step 1 : Start
+Step 2 : Read salary
+Step 3 : Dearness_allowance ← 0.4*salary
+Step 4 : House_rate_allowance ← 0.2*salary
+Step 5 : gross_salary ← House_rate_allowance+Dearness_allowance+salary 
+Step 6 : Print gross_salary,House_rate_allowance,Dearness_allowance
+Step 7 : Stop
