@@ -1,0 +1,5 @@
+Step 1:Start
+Step 2:Read a,b
+Step 3:c←a,a←b,b←c
+Step 4:Print a,b
+Step 5:Stop
