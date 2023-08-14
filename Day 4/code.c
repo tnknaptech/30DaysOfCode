@@ -14,7 +14,7 @@ int main()
     {
         big = b;
     }
-    if ((c > b) && (c > b))
+    if ((c > b) && (c > a))
     {
         big = c;
     }
